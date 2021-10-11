@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/*","projects/*"
+    "packages/*",
+    "projects/*"
   ],
   "publish": {
     "conventionalCommits": true,
@@ -13,5 +14,5 @@
     "concurrency": 8,
     "yes": true
   },
-  "version": "0.0.1"
+  "version": "0.0.3"
 }
