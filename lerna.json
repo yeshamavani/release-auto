@@ -3,6 +3,16 @@
     "packages/*",
     "projects/*"
   ],
+  "command": {
+    "bootstrap": {
+      "concurrency": 4,
+      "forceLocal": true
+    },
+    "version": {
+      "conventionalCommits": true,
+      "message": "chore: publish release",
+      "allowBranch": "master"
+    },
   "publish": {
     "conventionalCommits": true,
     "message": "chore: publish release",
@@ -13,6 +23,7 @@
     "loglevel": "silent",
     "concurrency": 8,
     "yes": true
-  },
-  "version": "0.0.4"
+  }
+},
+  "version": "independent"
 }
