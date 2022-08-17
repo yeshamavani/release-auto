@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.5](https://github.com/yeshamavani/release-auto/compare/yesha-release2@1.5.4...yesha-release2@1.5.5) (2022-08-17)
+
+
+### Bug Fixes
+
+* **chore:** ff ([15b152f](https://github.com/yeshamavani/release-auto/commit/15b152ffe273f6c6652c22e159ef869e6cedc01c)), closes [#00](https://github.com/yeshamavani/release-auto/issues/00)
+* **chore:** new branch ([241d894](https://github.com/yeshamavani/release-auto/commit/241d894d54e5ebf6161a0adadb2728d583356fe2)), closes [#11](https://github.com/yeshamavani/release-auto/issues/11)
+* **chore:** okm ([c2f8f22](https://github.com/yeshamavani/release-auto/commit/c2f8f223a4069234d7f86ccfaab86775dc80111f)), closes [#12](https://github.com/yeshamavani/release-auto/issues/12)
+
+
+
+
+
 ## [1.5.4](https://github.com/yeshamavani/release-auto/compare/yesha-release2@1.5.3...yesha-release2@1.5.4) (2022-08-17)
 
 
