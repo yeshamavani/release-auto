@@ -23,16 +23,7 @@
     },
     "changelog": {
       "labels": {
-        "feat": "New Feature",
-        "fix": "Bug Fix",
-        "docs": "Changes in the documents",
-        "style": "Change that does not change meaning of code",
-        "refactor": "Neither a bug fix nor feature",
-        "perf": "Improves Performance",
-        "test": "Changes in test",
-        "chore": "Changes to the build process or auxiliary tools",
-        "revert": "Revert to a commit",
-        "WIP": "Work in progress"
+        ":bug:": "Bug Fix"
       }
     }
   },
