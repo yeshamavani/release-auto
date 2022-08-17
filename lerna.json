@@ -23,7 +23,7 @@
     },
     "changelog": {
       "labels": {
-        ":bug:": "Bug Fix"
+        "fix": ":bug: Bug Fix"
       }
     }
   },
