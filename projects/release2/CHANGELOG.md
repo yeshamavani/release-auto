@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/yeshamavani/release-auto/compare/yesha-release2@1.5.5...yesha-release2@1.6.0) (2022-09-20)
+
+
+### Features
+
+* **release2:** hh ([4a8288b](https://github.com/yeshamavani/release-auto/commit/4a8288bfff8590186cdba4b6fcbf322cb2355c75)), closes [#00](https://github.com/yeshamavani/release-auto/issues/00)
+
+
+
+
+
 ## [1.5.5](https://github.com/yeshamavani/release-auto/compare/yesha-release2@1.5.4...yesha-release2@1.5.5) (2022-08-17)
 
 
