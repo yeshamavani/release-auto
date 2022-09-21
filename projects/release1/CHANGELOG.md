@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/yeshamavani/release-auto/compare/yesha-release1@1.3.0...yesha-release1@1.4.0) (2022-09-21)
+
+
+### Features
+
+* **chore:** log checkinhh ([8ce55ea](https://github.com/yeshamavani/release-auto/commit/8ce55eaa5ad29c5866f1b2d661d45b09124f81a3)), closes [#00](https://github.com/yeshamavani/release-auto/issues/00)
+* **chore:** log checkkkk 2222 ([a39ef13](https://github.com/yeshamavani/release-auto/commit/a39ef13d3496b98ff55cf4c87e6a13265ed6bf42)), closes [#00](https://github.com/yeshamavani/release-auto/issues/00)
+
+
+
+
+
 # [1.3.0](https://github.com/yeshamavani/release-auto/compare/yesha-release1@1.2.0...yesha-release1@1.3.0) (2022-09-21)
 
 
