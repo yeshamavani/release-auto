@@ -1,1 +1,22 @@
+---
+name: Release
+on:
+  push:
+    tags:
+      - "v*"
 
+jobs:
+  github:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Release Notes"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          lfs: true
+      - run: script/release-notes
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          body_file: relnotes.txt
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
