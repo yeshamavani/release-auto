@@ -1,5 +1,9 @@
 {
-  "packages": ["packages/*", "projects/*"],
+  "packages": [
+    "packages/search/projects/search-lib",
+    "projects/*",
+    "packages/search/projects/search-element"
+  ],
   "command": {
     "bootstrap": {
       "concurrency": 4,
