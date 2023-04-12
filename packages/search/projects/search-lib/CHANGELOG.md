@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 5.2.0 (2023-04-12)
+
+
+### Features
+
+* **core:** search element and lib ([3e8151f](https://github.com/yeshamavani/release-auto/commit/3e8151fe5f7d65035a74a048d018ac56601277ea)), closes [#00](https://github.com/yeshamavani/release-auto/issues/00)
+
+
+
+
+
 ## <small>5.1.2 (2023-03-24)</small>
 
 * fix(search-client): changes to release search element (#1355) ([f88d98e](https://github.com/sourcefuse/loopback4-microservice-catalog/commit/f88d98e)), closes [#1355](https://github.com/sourcefuse/loopback4-microservice-catalog/issues/1355)

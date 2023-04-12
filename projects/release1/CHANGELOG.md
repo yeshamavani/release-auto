@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/yeshamavani/release-auto/compare/yesha-release1@1.4.0...yesha-release1@1.5.0) (2023-04-12)
+
+
+### Features
+
+* **core:** search element and lib ([3e8151f](https://github.com/yeshamavani/release-auto/commit/3e8151fe5f7d65035a74a048d018ac56601277ea)), closes [#00](https://github.com/yeshamavani/release-auto/issues/00)
+
+
+
+
+
 # [1.4.0](https://github.com/yeshamavani/release-auto/compare/yesha-release1@1.3.0...yesha-release1@1.4.0) (2022-09-21)
 
 
