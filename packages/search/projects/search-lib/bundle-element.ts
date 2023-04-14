@@ -9,11 +9,20 @@ async function elementsBundler() {
     './dist/search-element/polyfills.js',
     './dist/search-element/main.js',
   ];
-  await ensureDir('./dist/element');
-  await concat(files, './dist/element/search-element.js');
+  // await ensureDir('./dist/element');
+  // await concat(files, './dist/element/search-element.js');
+  // await copyFile(
+  //   './dist/search-element/styles.css',
+  //   './dist/element/styles.css',
+  // );
+  // await rm('./dist/search-element', {recursive: true});
+  // copySync('./dist/element', '../search-element/element');
+
+  await ensureDir('../search-element/element');
+  await concat(files, '../search-element/element/search-element.js');
   await copyFile(
     './dist/search-element/styles.css',
-    './dist/element/styles.css',
+    '../search-element/element/styles.css',
   );
   await rm('./dist/search-element', {recursive: true});
 
@@ -31,8 +40,6 @@ async function elementsBundler() {
 
   /// copy the entire element to another folder
   // as we cannot release it from same dist folder
-
-  copySync('./dist/element', '../search-element/element');
 }
 
 elementsBundler();
