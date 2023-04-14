@@ -1,9 +1,9 @@
 {
   "name": "search-element-dont-use",
-  "version": "5.6.0",
+  "version": "5.7.0",
   "description": "A global search element for search microservicessss",
   "files": [
-    "dist/**"
+    "dist"
   ],
   "scripts": {
     "prebuild": "npm i",
