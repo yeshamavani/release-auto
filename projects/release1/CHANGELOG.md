@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.9.0](https://github.com/yeshamavani/release-auto/compare/yesha-release1@1.8.0...yesha-release1@1.9.0) (2023-04-14)
+
+
+### Features
+
+* **chore:** ff ([26e9a6f](https://github.com/yeshamavani/release-auto/commit/26e9a6f652f44e3f5f2bf46d541b9170d9a8ebda)), closes [#123](https://github.com/yeshamavani/release-auto/issues/123)
+
+
+
+
+
 # [1.8.0](https://github.com/yeshamavani/release-auto/compare/yesha-release1@1.7.0...yesha-release1@1.8.0) (2023-04-14)
 
 

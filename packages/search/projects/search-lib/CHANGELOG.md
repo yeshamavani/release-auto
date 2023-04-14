@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.9.0](https://github.com/yeshamavani/release-auto/compare/search-client-dont-use@5.8.0...search-client-dont-use@5.9.0) (2023-04-14)
+
+
+### Features
+
+* **chore:** ff ([26e9a6f](https://github.com/yeshamavani/release-auto/commit/26e9a6f652f44e3f5f2bf46d541b9170d9a8ebda)), closes [#123](https://github.com/yeshamavani/release-auto/issues/123)
+
+
+
+
+
 # [5.8.0](https://github.com/yeshamavani/release-auto/compare/search-client-dont-use@5.7.0...search-client-dont-use@5.8.0) (2023-04-14)
 
 
