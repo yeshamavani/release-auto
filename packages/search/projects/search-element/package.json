@@ -2,6 +2,9 @@
   "name": "search-element-dont-use",
   "version": "5.4.0",
   "description": "A global search element for search microservice..",
+  "files": [
+    "dist/**"
+  ],
   "scripts": {
     "prebuild": "npm i",
     "build": "cp -r element dist && cp package.json dist",
