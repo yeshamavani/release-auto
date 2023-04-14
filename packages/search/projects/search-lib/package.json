@@ -1,6 +1,6 @@
 {
   "name": "search-client-dont-use",
-  "version": "5.7.0",
+  "version": "5.8.0",
   "description": "A global search component for search microservice..",
   "files": [
     "dist/search-lib"
