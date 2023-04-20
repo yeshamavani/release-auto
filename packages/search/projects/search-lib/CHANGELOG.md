@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.13.0](https://github.com/yeshamavani/release-auto/compare/search-client-dont-use@5.12.0...search-client-dont-use@5.13.0) (2023-04-20)
+
+
+### Features
+
+* **chore:** moving things out of folder ([ae07ef6](https://github.com/yeshamavani/release-auto/commit/ae07ef68a7de59a35c577c12d92066f6df8aa15e)), closes [#00](https://github.com/yeshamavani/release-auto/issues/00)
+
+
+
+
+
 # [5.12.0](https://github.com/yeshamavani/release-auto/compare/search-client-dont-use@5.11.0...search-client-dont-use@5.12.0) (2023-04-14)
 
 
