@@ -30,7 +30,8 @@
     "tslib": "^2.2.0"
   },
   "devDependencies": {
-    "@angular/elements": "^13.3.11"
+    "@angular/elements": "^13.3.11",
+    "@types/fs-extra": "^11.0.1"
   },
   "repository": {
     "type": "git",

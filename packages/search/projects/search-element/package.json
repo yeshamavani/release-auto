@@ -4,7 +4,7 @@
   "description": "A global search element for search microservices",
   "scripts": {
     "prebuild": "npm i",
-    "build": "cp -r element dist && cp package.json dist",
+    "build": "ts-node element-build.ts",
     "prepublishOnly": "npm run build"
   },
   "dependencies": {

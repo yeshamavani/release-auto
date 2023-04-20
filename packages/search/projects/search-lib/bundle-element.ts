@@ -3,7 +3,7 @@ import {copyFile, rm} from 'fs/promises';
 const concat = require('concat');
 
 async function elementsBundler() {
-  const space = 2;
+  //const space = 2;
   const files = [
     './dist/search-element/runtime.js',
     './dist/search-element/polyfills.js',
@@ -18,11 +18,11 @@ async function elementsBundler() {
   // await rm('./dist/search-element', {recursive: true});
   // copySync('./dist/element', '../search-element/element');
 
-  await ensureDir('../search-element/element');
-  await concat(files, '../search-element/element/search-element.js');
+  await ensureDir('../search-element');
+  await concat(files, '../search-element/search-element.js');
   await copyFile(
     './dist/search-element/styles.css',
-    '../search-element/element/styles.css',
+    '../search-element/styles.css',
   );
   await rm('./dist/search-element', {recursive: true});
 
