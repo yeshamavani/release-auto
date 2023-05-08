@@ -70,6 +70,7 @@ export class SearchComponent<T extends IReturnType>
   private _config!: Configuration<T>;
   public get config(): Configuration<T> {
     return this._config;
+    console.log('hehehe');
   }
 
   @Input()
@@ -166,6 +167,7 @@ export class SearchComponent<T extends IReturnType>
   }
 
   getSuggestions(eventValue: TypeEvent) {
+    console.log('hererer');
     eventValue.input = eventValue.input.trim();
     if (!eventValue.input.length) {
       return;
@@ -215,6 +217,7 @@ export class SearchComponent<T extends IReturnType>
           this.cdr.markForCheck();
         },
       );
+    console.log('there');
   }
   getRecentSearches() {
     if (
