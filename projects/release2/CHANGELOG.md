@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0](https://github.com/yeshamavani/release-auto/compare/yesha-release2@1.12.0...yesha-release2@1.13.0) (2023-05-08)
+
+
+### Features
+
+* **chore:** ytytyty ([6863bc8](https://github.com/yeshamavani/release-auto/commit/6863bc8271e379d8102b1d9975d81aa88038ac31)), closes [#468](https://github.com/yeshamavani/release-auto/issues/468)
+
+
+
+
+
 # [1.12.0](https://github.com/yeshamavani/release-auto/compare/yesha-release2@1.11.0...yesha-release2@1.12.0) (2023-04-14)
 
 
