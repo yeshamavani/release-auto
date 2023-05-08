@@ -22,7 +22,8 @@
     "installNodeModules": "cd ../../ && npm i",
     "prebuild": "npm run checkIfNodeModulesExist || npm run installNodeModules",
     "libraryBuild": "ng build && cp -r src/assets dist/assets",
-    "elementBuild": "ng build search-element && ts-node bundle-element.ts",
+    "elementBuild": "ng build search-element",
+    "postbuild": "ts-node bundle-element.ts",
     "build": "npm run libraryBuild && npm run elementBuild",
     "prepublishOnly": "npm run build"
   },

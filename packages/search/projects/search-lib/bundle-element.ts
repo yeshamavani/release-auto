@@ -18,12 +18,13 @@ async function elementsBundler() {
   // await rm('./dist/search-element', {recursive: true});
   // copySync('./dist/element', '../search-element/element');
 
-  await ensureDir('../search-element');
-  await concat(files, '../search-element/search-element.js');
+  await ensureDir('../search-element/dist');
+  await concat(files, '../search-element/dist/search-element.js');
   await copyFile(
     './dist/search-element/styles.css',
-    '../search-element/styles.css',
+    '../search-element/dist/styles.css',
   );
+  await copyFile('./dist/README.md', '../search-element/dist/README.md');
   await rm('./dist/search-element', {recursive: true});
 
   //copy the package.json and change the name to

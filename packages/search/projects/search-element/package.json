@@ -2,18 +2,7 @@
   "name": "search-element-dont-use",
   "version": "5.15.0",
   "description": "A global search element for search microservices.",
-  "main": "search-element.js",
-  "scripts": {
-    "prebuild": "npm i",
-    "build": "ts-node element-build.ts",
-    "prepublishOnly": "npm run build"
-  },
-  "dependencies": {
-    "tslib": "^2.2.0"
-  },
-  "devDependencies": {
-    "@angular/elements": "^13.3.11"
-  },
+  "main": "./search-element.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/sourcefuse/loopback4-microservice-catalog.git",
