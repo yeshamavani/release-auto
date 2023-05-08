@@ -217,6 +217,8 @@ export class SearchComponent<T extends IReturnType>
           this.cdr.markForCheck();
         },
       );
+    console.log('hihhiihih');
+    console.log('yuyuyuyuyuy');
   }
   getRecentSearches() {
     if (
