@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.19.0](https://github.com/sourcefuse/loopback4-microservice-catalog/compare/search-element-dont-use@5.18.0...search-element-dont-use@5.19.0) (2023-05-08)
+
+
+### Features
+
+* **chore:** hh ([5828437](https://github.com/sourcefuse/loopback4-microservice-catalog/commit/58284375876f30018b355a21e526d2864a9ad9de)), closes [#33](https://github.com/sourcefuse/loopback4-microservice-catalog/issues/33)
+
+
+
+
+
 # [5.18.0](https://github.com/sourcefuse/loopback4-microservice-catalog/compare/search-element-dont-use@5.17.0...search-element-dont-use@5.18.0) (2023-05-08)
 
 
