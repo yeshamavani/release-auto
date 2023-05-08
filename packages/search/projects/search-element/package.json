@@ -18,5 +18,6 @@
     "registry": "https://registry.npmjs.org/",
     "access": "public",
     "directory": "dist"
-  }
+  },
+  "hash": "0e562ad253fecfd6f3e941a3e5d6583930a86e69f7e4b42cc1b67ddac19d480f"
 }
