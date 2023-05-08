@@ -3,6 +3,9 @@
   "version": "5.18.0",
   "description": "A global search element for search microservices..",
   "main": "./search-element.js",
+  "scripts": {
+    "prebuild": "cp package.json dist/package.json"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sourcefuse/loopback4-microservice-catalog.git",
