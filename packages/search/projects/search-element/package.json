@@ -4,7 +4,7 @@
   "description": "A global search element for search microservices..",
   "main": "./search-element.js",
   "scripts": {
-    "prebuild": "cp package.json dist/package.json"
+    "prepublishOnly": "cp package.json dist/package.json"
   },
   "repository": {
     "type": "git",
