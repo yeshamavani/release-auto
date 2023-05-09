@@ -1,6 +1,6 @@
 {
   "name": "search-client-dont-use",
-  "version": "5.22.0",
+  "version": "5.23.0",
   "description": "A global search component for search microservi..",
   "peerDependencies": {
     "@angular/animations": "~13.3.11",
