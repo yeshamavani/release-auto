@@ -1,7 +1,7 @@
 {
   "name": "search-element-dont-use",
   "version": "5.23.0",
-  "description": "A global search element for search microservices..",
+  "description": "A global search element for search microservices",
   "main": "./search-element.js",
   "scripts": {
     "prepublishOnly": "cp package.json dist/package.json"
