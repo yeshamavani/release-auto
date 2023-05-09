@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.24.0](https://github.com/yeshamavani/release-auto/compare/search-client-dont-use@5.23.0...search-client-dont-use@5.24.0) (2023-05-09)
+
+
+### Features
+
+* **chore:** hgjg ([4059b27](https://github.com/yeshamavani/release-auto/commit/4059b2785656f35c16d688f7f959ef034c0bfcc2)), closes [#0](https://github.com/yeshamavani/release-auto/issues/0)
+
+
+
+
+
 # [5.23.0](https://github.com/yeshamavani/release-auto/compare/search-client-dont-use@5.22.0...search-client-dont-use@5.23.0) (2023-05-09)
 
 
